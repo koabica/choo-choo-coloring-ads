@@ -1,0 +1,30 @@
+{"ads":{
+  
+    "applovin_inter":"5ef531e8f5938a97",
+    "applovin_native":"e45804d03debea2d",
+    "applovin_banner":"68fd66309e814349",
+      
+    "unity_inter":"Interstitial_Android",
+    "unity_banner":"Banner_Android",
+    "unity_gameid":"5134085",
+    
+      
+    "facebook_inter":"",
+    "facebook_banner":"",
+    "facebook_native":"",
+      
+    "admob_inter":"ca-app-pub-4771646173609536/3540280449",
+    "admob_banner":"ca-app-pub-4771646173609536/1105688791",
+    "admob_native":"ca-app-pub-4771646173609536/8708313818",
+      "img1":"",
+      
+    
+    
+    "banner_network_choice":"admob", 
+    "interstisial_network_choice":"admob", 
+    "native_network_choice":"admob"
+     
+      
+    
+    
+    }}
